@@ -4,7 +4,7 @@
 
 /* Step 2 - Variables */
 let FullName = "Pascal Ebuka Okezie";
-let currentYear = "2024";
+let currentYear = new Date().getFullYear();
 let profilePicture = "images/profile.jpg";
 
 /* Step 3 - Element Variables */
